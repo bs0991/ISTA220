@@ -1,0 +1,7 @@
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\bin\Debug\MathematicalFormulas.exe.config
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\bin\Debug\MathematicalFormulas.exe
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\bin\Debug\MathematicalFormulas.pdb
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\obj\Debug\MathematicalFormulas.csprojAssemblyReference.cache
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\obj\Debug\MathematicalFormulas.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\obj\Debug\MathematicalFormulas.exe
+C:\Users\wwstudent\MSSA2021\ISTA220\Exercises\MathematicalFormulas\MathematicalFormulas\obj\Debug\MathematicalFormulas.pdb
